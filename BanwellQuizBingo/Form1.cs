@@ -41,8 +41,7 @@ namespace BanwellQuizBingo
             {
                 QuizBingoSheet bingoSheet = new QuizBingoSheet();
                 bingoSheet.Show();
-               
-
+  
                 //bingoSheet.PrintScreen();
                 //bingoSheet.Close();
             }
