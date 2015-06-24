@@ -8,3 +8,13 @@ c:\users\dominic\documents\visual studio 2013\Projects\BanwellQuizBingo\BanwellQ
 c:\users\dominic\documents\visual studio 2013\Projects\BanwellQuizBingo\BanwellQuizBingo\obj\Debug\BanwellQuizBingo.pdb
 c:\users\dominic\documents\visual studio 2013\Projects\BanwellQuizBingo\BanwellQuizBingo\obj\Debug\BanwellQuizBingo.Form1.resources
 c:\users\dominic\documents\visual studio 2013\Projects\BanwellQuizBingo\BanwellQuizBingo\obj\Debug\BanwellQuizBingo.QuizBingoSheet.resources
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\BingoQuizSheets\BanwellQuizBingo\bin\Debug\BanwellQuizBingo.exe.config
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\BingoQuizSheets\BanwellQuizBingo\obj\Debug\BanwellQuizBingo.exe
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\BingoQuizSheets\BanwellQuizBingo\obj\Debug\BanwellQuizBingo.pdb
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\BingoQuizSheets\BanwellQuizBingo\bin\Debug\BanwellQuizBingo.exe
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\BingoQuizSheets\BanwellQuizBingo\bin\Debug\BanwellQuizBingo.pdb
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\BingoQuizSheets\BanwellQuizBingo\obj\Debug\BanwellQuizBingo.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\BingoQuizSheets\BanwellQuizBingo\obj\Debug\BanwellQuizBingo.Form1.resources
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\BingoQuizSheets\BanwellQuizBingo\obj\Debug\BanwellQuizBingo.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\BingoQuizSheets\BanwellQuizBingo\obj\Debug\BanwellQuizBingo.QuizBingoSheet.resources
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\BingoQuizSheets\BanwellQuizBingo\obj\Debug\BanwellQuizBingo.csproj.GenerateResource.Cache

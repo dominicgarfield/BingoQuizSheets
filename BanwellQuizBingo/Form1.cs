@@ -23,7 +23,7 @@ namespace BanwellQuizBingo
             printDocument.PrintPage += new PrintPageEventHandler(printDocument1_PrintPage);
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void generateSheets_Click(object sender, EventArgs e)
         {
             //PrintDocument pd = new PrintDocument();
 
@@ -34,11 +34,7 @@ namespace BanwellQuizBingo
             graphics.SmoothingMode = SmoothingMode.AntiAlias;
             graphics.FillRectangle(new SolidBrush(Color.Tomato), 40, 40, 10, 10);
             graphics.FillRectangle(new SolidBrush(Color.Tomato), 10, 10, 10, 10);
-            //this.pictureBox1.Image = this.Draw(50, 50, 40, 40);
-            //this.pictureBox1.Image = this.Draw(50, 50, 10, 10);
-            //this.pictureBox1.Image = this.Draw(50, 50, 10, 10);
-            //this.pictureBox1.Image = this.Draw(50, 50, 10, 10);
-            //this.pictureBox1.Image = this.Draw(50, 50, 10, 10);
+         
             var ddd = new String[]{"dd", "ff"};
 
             for (int i = 1; i < 4; i++)
@@ -62,13 +58,8 @@ namespace BanwellQuizBingo
             return bitmap;
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
 
-        }
-
-
-        void button2_Click(object sender, EventArgs e)
+        void print_Click(object sender, EventArgs e)
         {
             CaptureScreen();
             printDocument.Print();
@@ -90,6 +81,16 @@ namespace BanwellQuizBingo
                System.Drawing.Printing.PrintPageEventArgs e)
         {
             e.Graphics.DrawImage(memoryImage, 0, 0);
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
